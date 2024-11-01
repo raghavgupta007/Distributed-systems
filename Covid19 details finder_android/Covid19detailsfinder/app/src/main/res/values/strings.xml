@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid19 details finder</string>
+    <string name="enter_the_state">Enter the State and County </string>
+    <string name="submit_the_state">Submit the State and County</string>
+    <string name="input_state_hint_text">eg.Pittsburgh</string>
+    <string name="covid_19_details">Covid-19 Details</string>
+    <string name="input_county_hint_text">eg.Andrews</string>
+</resources>
